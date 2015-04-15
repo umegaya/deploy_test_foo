@@ -1,0 +1,6 @@
+[submodule "baz2"]
+	path = baz
+	url = git@github.com:umegaya/deploy_test_baz.git
+[submodule "bar2"]
+	path = bar
+	url = git@github.com:umegaya/deploy_test_bar.git
