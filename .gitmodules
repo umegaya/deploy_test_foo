@@ -1,9 +1,0 @@
-[submodule "bar"]
-	path = bar
-	url = /Users/iyatomi/Documents/umegaya/sandbox/submodule_test/bar
-[submodule "baz"]
-	path = baz
-	url = /Users/iyatomi/Documents/umegaya/sandbox/submodule_test/baz
-[submodule "bler"]
-	path = bler
-	url = /Users/iyatomi/Documents/umegaya/sandbox/submodule_test/bler
